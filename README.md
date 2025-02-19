@@ -1,0 +1,2 @@
+I tried to find most cheapest 360 lidar in market, there are two companies who manufacture hobby grade lidars (rplidars, and ydlidars), ydlidars are cheaper than rplidars . this package uses lidar config file to connect a lidar via port and publish the lidar data on /scan topic as ros2 node
+note: SDK file is prebuilt and ydLidar for ros2 is must to build with all its dependencies. and must source tha workspace in order to make package visible.
